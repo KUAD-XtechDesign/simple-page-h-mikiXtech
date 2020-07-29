@@ -21,7 +21,7 @@ img.frame{
 }
 
 .info{
-  background-color: #ff0000;
+  background-color: #ffffff;
   padding: 20px;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -31,7 +31,7 @@ img.frame{
   margin-bottom: 10px;
   padding-bottom: 10px;
   font-size: 1.2em;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #ff1000;
 }
 
 .btns{
